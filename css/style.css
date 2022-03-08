@@ -1,0 +1,10 @@
+/* Created by: Kenny Le
+ * Created on: Mar 2022
+ * This CSS file defines the style for index.html ICS2O-Unit2-01-JS
+*/
+
+p {
+  color: black;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 1.5rem;
+}

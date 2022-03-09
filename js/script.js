@@ -5,5 +5,5 @@
 
 function myButtonClicked() {
   // this function displays "Hello, World!"
-  document.getElementById("hello-world").innerHTML = <div id="hello-world"></div>
+  document.getElementById("hello-world").innerHTML = "<p>Hello, World!</p>"
 }
